@@ -4,6 +4,7 @@ Monitoring of Coastal Water Turbidity in the Presence of Cloud Cover Using Senti
 
 ## Set-Up
 This project is an attempt to develop algorithms for filling gaps associated with cloud cover in Sentinel 2 imagery and using the latter to predict turbidity in coastal waterbodies.
+
 The code was developed using Python Jupyter Notebook platform. A description of the implemented tasks is provided below:
 1.	Download Data: Refers to collecting S2 imagery. The acquisition of other data (e.g. turbidity maps) was done manually and is described with more detail in the pdf document.
 	
