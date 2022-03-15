@@ -8,16 +8,16 @@ This project is an attempt to develop algorithms for filling gaps associated wit
 The code was developed using Python Jupyter Notebook platform. A description of the implemented tasks is provided below:
 1. Download Data: 
 
-Refers to collecting S2 imagery. The acquisition of other data (e.g. turbidity maps) was done manually and is described with more detail in the pdf document.
+	Refers to collecting S2 imagery. The acquisition of other data (e.g. turbidity maps) was done manually and is described with more detail in the pdf document.
 	
 2. Pre-process Data: 
 
-Refers to ensuring that all data is organized in a unified format. This step is about making sure that all collected data share the same geographic extent, spatial resolution, and other characteristics. In addition, it includes the gap-filling algotihm (univariate and bi-variate versions).
+	Refers to ensuring that all data is organized in a unified format. In addition, it includes the gap-filling algotihm (univariate and bi-variate versions).
 
 3. Feature Engineering and Machine Learning Model Development: 
 
-Refers to preparing training (X) and validation (y) datasets for the different selected months, as well as, implementing different ML models to predict turbidity in the study area.
+	Refers to preparing training (X) and validation (y) datasets for the different selected months, as well as, implementing different ML models to predict turbidity.
 
 4. Analysis of results: 
 
-Refers to the results and discussion sections included in the pdf docuument.
+	Refers to the results and discussion sections included in the pdf docuument.
