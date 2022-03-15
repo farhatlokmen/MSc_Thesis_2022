@@ -1,5 +1,6 @@
 # MSc_Thesis_2022
-Title: Monitoring of Coastal Water Turbidity in the Presence of Cloud Cover Using Sentinel 2 Imagery with a Machine Learning Approach
+## Title
+Monitoring of Coastal Water Turbidity in the Presence of Cloud Cover Using Sentinel 2 Imagery with a Machine Learning Approach
 
 This project is an attempt to develop algorithms for filling gaps associated with cloud cover in Sentinel 2 imagery and using the latter to predict turbidity in coastal waterbodies.
 
