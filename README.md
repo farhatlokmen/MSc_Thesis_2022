@@ -20,4 +20,4 @@ The code was developed using Python Jupyter Notebook platform. A description of 
 
 4. Analysis of results: 
 
-	Refers to the results and discussion sections included in the pdf docuument.
+	Refers to the results and discussion sections included in the pdf document.
