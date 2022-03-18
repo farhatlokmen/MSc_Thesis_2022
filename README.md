@@ -21,3 +21,6 @@ The code was developed using Python Jupyter Notebook platform. A description of 
 4. Analysis of results: 
 
 	Refers to the results and discussion sections included in the pdf document.
+
+## Acknowledgements
+This work has been conducted within the framework of the M.Sc. program "Geoinformation in Environmental Management" of CIHEAM-Mediterranean Agronomic Institute of Chania (MAICh), under the co-supervision of: Dr. Ioannis Manakos (affiliation: Centre for Research and Technology Hellas, Information Technologies Institute), Prof. Georgios Sylaios (affiliation: Laboratory of Ecological Engineering and Technology, Department of Environmental Engineering, Democritus University of Thrace), and Dr. Chariton Kalaitzidis (affiliation: Department of Geoinformation in Environmental Management, Mediterranean Agronomic Institute of Chania).
